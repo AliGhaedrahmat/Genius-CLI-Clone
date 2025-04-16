@@ -121,6 +121,12 @@ git clone https://github.com/AliGhaedrahmat/Genius-CLI-Clone.git
 
 first change directory to the repository's directory , cd to Genius_Java Folder , And Run this code in terminal:
 
+Step1: 
+```bash
+gradlew.bat clean build
+```
+
+Step2:
 ```bash
 java -jar build/libs/Genius_Java-1.0-SNAPSHOT.jar
 ```
