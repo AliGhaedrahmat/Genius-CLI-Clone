@@ -7,7 +7,7 @@ Genius CLI Music App is a command-line music management system built with Java a
 ## Table of Contents
 - [Features](#features)
 - [Architecture and Project Structure](#architecture-and-project-structure)
-- [Installation And Usage](#installation)
+- [Installation](#installation)
 - [Usage](#usage)
 
 ## Features
