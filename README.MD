@@ -116,8 +116,12 @@ Genius CLI Music App is a command-line music management system built with Java a
 ### Clone the Repository
 Open your terminal and run:
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
+git clone https://github.com/AliGhaedrahmat/Nowruz-Project.git
+cd your_repo_to_(genius_java)
+
+
+
+
 
 
 
