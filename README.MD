@@ -118,11 +118,3 @@ Open your terminal and run:
 ```bash
 git clone https://github.com/AliGhaedrahmat/Nowruz-Project.git
 cd your_repo_to_(genius_java)
-
-
-
-
-
-
-
-By Ali Ghaedrahmat
