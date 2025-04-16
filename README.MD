@@ -7,7 +7,7 @@ Genius CLI Music App is a command-line music management system built with Java a
 ## Table of Contents
 - [Features](#features)
 - [Architecture and Project Structure](#architecture-and-project-structure)
-- [Installation](#installation)
+- [Installation And Usage](#installation)
 - [Usage](#usage)
 
 ## Features
@@ -116,6 +116,7 @@ Open your terminal and run this code to clone the repository:
 git clone https://github.com/AliGhaedrahmat/Genius-CLI-Clone.git
 ```
 
+## Usage
 ### Run The Project 
 
 first change directory to the repository's directory , cd to Genius_Java Folder , And Run this code in terminal:
