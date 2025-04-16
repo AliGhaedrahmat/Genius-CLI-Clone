@@ -19,7 +19,7 @@ public class FilePathUtil {
 
     public static String getDatabaseFilePath(String filename) {
         String path = getProjectRoot();
-        path += File.separator + "Genius-CLI-Clone" + File.separator + "Genius_Java"+File.separator+ "Database" + File.separator +filename+ ".json";
+        path +=  File.separator + "Genius_Java"+File.separator+ "Database" + File.separator +filename+ ".json";
 
         return path;
     }
